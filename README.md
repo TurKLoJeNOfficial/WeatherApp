@@ -1,13 +1,12 @@
 ## 📌 About
 
-**Weather App** is a beautifully designed React Native application that provides real-time weather updates. Users can get current weather conditions, temperature, humidity, wind speed, and more for any location worldwide.
+I just started learning React Native; it's a new technology for me. First, I created a weather application on my own.
 
 ## 🚀 Features
 
 - 🌍 Get weather data for any location
 - 🌡 Displays temperature, humidity, and wind speed
 - 🌤 Beautiful UI with dynamic weather icons
-- 🎨 Light & Dark mode support
 - 📍 GPS-based location detection
 - ⚡ Fast & smooth performance
 
