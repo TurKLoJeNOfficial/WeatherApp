@@ -1,5 +1,3 @@
-# 🌦 Weather App
-
 ![Weather App](https://github.com/user-attachments/assets/29b6b906-964b-4281-9357-970eadb47aa3)
 ![Weather App](https://github.com/user-attachments/assets/8194d6ec-d860-45df-816d-ba40cc9c0ac2)
 
@@ -19,8 +17,8 @@
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29b6b906-964b-4281-9357-970eadb47aa3" width="300"/>
-  <img src="https://github.com/user-attachments/assets/8194d6ec-d860-45df-816d-ba40cc9c0ac2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/29b6b906-964b-4281-9357-970eadb47aa3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8194d6ec-d860-45df-816d-ba40cc9c0ac2" width="200"/>
 </p>
 
 ## 🛠 Tech Stack
